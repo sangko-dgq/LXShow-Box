@@ -5,7 +5,6 @@
 #ifndef _CONFIG_H
 #define _CONFIG_H
 
-//爆改车间
 //LED屏幕 96*128 RGB屏幕  96*64 32扫 2块拼接
 
 //日历代码
